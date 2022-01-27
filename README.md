@@ -1,0 +1,4 @@
+- Hey, I’m @N3rosis
+- I’m interested in machine learning/ data science, cybersecurity, and ethical hacking
+- I’m currently working on self taught machine learning with python
+- If you wanna reach me my email is n3rosis.zero@gmail.com
